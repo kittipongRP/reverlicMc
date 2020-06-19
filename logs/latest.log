@@ -1,0 +1,68 @@
+[00:33:40] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[00:33:40] [Server thread/INFO]: Loading properties
+[00:33:40] [Server thread/INFO]: Default game type: SURVIVAL
+[00:33:40] [Server thread/INFO]: Generating keypair
+[00:33:41] [Server thread/INFO]: Starting Minecraft server on 192.168.0.102:25565
+[00:33:41] [Server thread/INFO]: Using default channel type
+[00:33:41] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3e3818b (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
+[00:33:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:33:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:33:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:33:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:33:41] [Server thread/INFO]: Preparing level "world"
+[00:33:41] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[00:33:42] [Server thread/INFO]: Loaded 6 recipes
+[00:33:43] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[00:33:44] [Server thread/INFO]: Preparing spawn area: 0%
+[00:33:44] [Server thread/INFO]: Preparing spawn area: 0%
+[00:33:44] [Server thread/INFO]: Preparing spawn area: 0%
+[00:33:45] [Server thread/INFO]: Preparing spawn area: 0%
+[00:33:49] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[00:33:49] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[00:33:49] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[00:33:49] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[00:33:49] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[00:33:49] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[00:33:49] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[00:33:49] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[00:33:49] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:33:49] [Server thread/INFO]: Time elapsed: 6477 ms
+[00:33:49] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[00:33:50] [Server thread/INFO]: Preparing spawn area: 0%
+[00:33:50] [Server thread/INFO]: Preparing spawn area: 0%
+[00:33:50] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[00:33:51] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[00:33:51] [Server-Worker-7/INFO]: Preparing spawn area: 86%
+[00:33:52] [Server-Worker-6/INFO]: Preparing spawn area: 95%
+[00:33:52] [Server thread/INFO]: Time elapsed: 2732 ms
+[00:33:52] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[00:33:52] [Server thread/INFO]: Preparing spawn area: 0%
+[00:33:53] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[00:33:53] [Server thread/INFO]: Time elapsed: 911 ms
+[00:33:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:33:53] [Server thread/INFO]: Done (11.707s)! For help, type "help"
+[00:33:55] [Server thread/INFO]: Reverlic[/192.168.0.102:50477] logged in with entity id 183 at ([world]-218.82473906806172, 64.0, 185.58653894162617)
+[00:33:58] [Server thread/INFO]: Reverlic lost connection: Disconnected
+[00:33:58] [Server thread/INFO]: Reverlic left the game
+[00:33:58] [Server thread/INFO]: Reverlic[/203.150.153.172:50482] logged in with entity id 184 at ([world]-218.82473906806172, 64.0, 185.58653894162617)
+[00:35:37] [Server thread/INFO]: DarkExecutor[/180.180.97.132:55648] logged in with entity id 407 at ([world]-291.6928825898544, 64.0, 149.52424132325498)
+[00:37:09] [Server thread/INFO]: DarkExecutor was slain by Zombie
+[00:38:53] [Server thread/INFO]: DarkExecutor was slain by Spider
+[00:38:57] [Server thread/WARN]: Reverlic moved too quickly! 3.8084266895587007,0.0,-9.336076593577303
+[00:41:43] [Server thread/INFO]: Reverlic lost connection: Disconnected
+[00:41:43] [Server thread/INFO]: Reverlic left the game
+[00:41:49] [Server thread/INFO]: DarkExecutor lost connection: Disconnected
+[00:41:49] [Server thread/INFO]: DarkExecutor left the game
+[00:41:54] [Server thread/INFO]: Stopping the server
+[00:41:54] [Server thread/INFO]: Stopping server
+[00:41:54] [Server thread/INFO]: Saving players
+[00:41:54] [Server thread/INFO]: Saving worlds
+[00:41:54] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:41:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:41:55] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[00:41:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:41:55] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[00:41:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:41:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:41:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:41:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
